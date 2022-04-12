@@ -2,4 +2,7 @@
 
 # contributors
 Bryson
+Tess
+Alex
+Matthew
 # resources
